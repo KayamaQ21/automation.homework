@@ -1,0 +1,14 @@
+H1 {
+	color: red;
+}
+
+H2 {
+	color: 0000ff;
+}
+
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
